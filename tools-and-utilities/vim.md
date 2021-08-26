@@ -1,0 +1,5 @@
+# VIM
+
+* moving around
+* configuration
+
